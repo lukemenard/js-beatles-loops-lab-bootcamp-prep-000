@@ -23,13 +23,13 @@ function johnLennonFacts(facts){
   return array
 }
 
-var i = 0
 function incrementVariable() {
   i = i + 1;
   return i;
 }
 
 function iLoveTheBeatles(number){
+  var i = 0
   var array = []
   do {
     array.push("I love the Beatles!")
