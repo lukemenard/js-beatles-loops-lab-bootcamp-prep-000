@@ -33,5 +33,5 @@ function iLoveTheBeatles(number){
   do {
     array.push("I love the Beatles!")
   }
-  while incrementVariable
+  while (incrementVariable() > 15)
 }
