@@ -16,6 +16,8 @@ const facts = [
 
 function johnLennonFacts(facts){
   let countdown = facts.length
-  while
+  while (coundown > 0){
+    
+  }
   }
 }
