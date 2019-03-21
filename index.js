@@ -15,9 +15,9 @@ const facts = [
 ]
 
 function johnLennonFacts(facts){
-  
-  let countdown = facts.length
-  while (coundown > 0){
+  var array = []
+  var i = 0
+  while (i > facts.length){
     console.log(--countdown)
   }
   }
